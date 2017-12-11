@@ -1,0 +1,23 @@
+{
+  "name": "function-speedtest",
+  "version": "1.0.0",
+  "description": "speed test example code for azure functions",
+  "main": "/peoplejs/index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spboyer/function-speedtest.git"
+  },
+  "author": "Shayne Boyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spboyer/function-speedtest/issues"
+  },
+  "homepage": "https://github.com/spboyer/function-speedtest#readme"
+}
